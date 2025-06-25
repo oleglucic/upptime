@@ -13,8 +13,10 @@ sites:
     url: $DASH
   - name: Deca za Siguran Net
     url: $DSN
+    type: globalping
   - name: Portainer
     url: $PTN
+    type: globalping
   - name: IPv6 test
     url: forwardemail.net
     port: 80
