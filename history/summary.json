@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aio-streams",
     "status": "down",
-    "uptime": "6.38%",
-    "uptimeDay": "6.38%",
-    "uptimeWeek": "6.38%",
-    "uptimeMonth": "6.38%",
-    "uptimeYear": "6.38%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "uptime": "5.93%",
+    "uptimeDay": "5.93%",
+    "uptimeWeek": "5.93%",
+    "uptimeMonth": "5.93%",
+    "uptimeYear": "5.93%",
+    "time": 200,
+    "timeDay": 200,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-06-25": 55
+      "2025-06-25": 60
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
     "status": "down",
-    "uptime": "6.37%",
-    "uptimeDay": "6.37%",
-    "uptimeWeek": "6.37%",
-    "uptimeMonth": "6.37%",
-    "uptimeYear": "6.37%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "uptime": "5.92%",
+    "uptimeDay": "5.92%",
+    "uptimeWeek": "5.92%",
+    "uptimeMonth": "5.92%",
+    "uptimeYear": "5.92%",
+    "time": 240,
+    "timeDay": 240,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-06-25": 55
+      "2025-06-25": 60
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "6.34%",
-    "uptimeDay": "6.34%",
-    "uptimeWeek": "6.34%",
-    "uptimeMonth": "6.34%",
-    "uptimeYear": "6.34%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "uptime": "5.89%",
+    "uptimeDay": "5.89%",
+    "uptimeWeek": "5.89%",
+    "uptimeMonth": "5.89%",
+    "uptimeYear": "5.89%",
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-06-25": 55
+      "2025-06-25": 60
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "down",
-    "uptime": "6.31%",
-    "uptimeDay": "6.31%",
-    "uptimeWeek": "6.31%",
-    "uptimeMonth": "6.31%",
-    "uptimeYear": "6.31%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "uptime": "5.88%",
+    "uptimeDay": "5.88%",
+    "uptimeWeek": "5.88%",
+    "uptimeMonth": "5.88%",
+    "uptimeYear": "5.88%",
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-06-25": 55
+      "2025-06-25": 60
     }
   },
   {
