@@ -6,6 +6,7 @@ user-agent: MyUpptimeMonitorBot
 sites:
   - name: AIOStreams
     url: $AIOS
+    type: globalping
   - name: Cloud
     url: $CLD
   - name: Dashboard
