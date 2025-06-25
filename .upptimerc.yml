@@ -33,9 +33,9 @@ status-website:
   cname: status.oleglucic.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/Ubuntu.svg
-  name: olegserver
-  introTitle: "**olegserver** status page powered by [Upptime](https://upptime.js.org/)"
-  introMessage: 
+  name: olegserver Status
+  introTitle: "**olegserver** status page"
+  introMessage: Status and uptime of all the services run on _olegserver_.
   navbar:
     - title: Status
       href: /
