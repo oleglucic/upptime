@@ -13,7 +13,6 @@ sites:
     url: $DASH
   - name: Deca za Siguran Net
     url: $DSN
-    type: globalping
   - name: Portainer
     url: $PTN
   - name: IPv6 test
