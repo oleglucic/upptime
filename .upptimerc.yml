@@ -5,26 +5,27 @@ repo: upptime # The name of this repository
 sites:
   - name: AIOStreams
     url: $AIOS
-    icon: https://raw.githubusercontent.com/Viren070/AIOStreams/main/packages/frontend/public/assets/logo.png
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/AIOS.ico
     type: globalping
   - name: Cloud
     url: $CLD
-    icon: https://avatars.githubusercontent.com/u/19211038?s=200&v=4
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/CLD.ico
     type: globalping
   - name: Dashboard
     url: $DASH
-    icon: https://avatars.githubusercontent.com/u/5765104?s=200&v=4
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/DASH.ico
     type: globalping
   - name: Deca za Siguran Net
     url: $DSN
-    icon: https://decazasigurannet.com/wp-content/uploads/2024/03/Profile_picture-removebg.svg
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/DSN.ico
     type: globalping
   - name: Portainer
     url: $PTN
-    icon: https://avatars.githubusercontent.com/u/22225832?s=200&v=4
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/PTN.ico
     type: globalping
   - name: SSH
     url: $SSH
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/SSH.ico
     type: globalping
 
 status-website:
