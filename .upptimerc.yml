@@ -19,6 +19,10 @@ sites:
     url: $DSN
     icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/DSN.ico
     type: globalping
+  - name: Linkwarden
+    url: $LWD
+    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/LWD.ico
+    type: globalping
   - name: Portainer
     url: $PTN
     icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/PTN.ico
