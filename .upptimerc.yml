@@ -27,10 +27,6 @@ sites:
     url: $PTN
     icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/PTN.ico
     type: globalping
-  - name: SSH
-    url: $SSH
-    icon: https://raw.githubusercontent.com/oleglucic/upptime/master/assets/SSH.ico
-    type: globalping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
