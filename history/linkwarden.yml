@@ -1,7 +1,7 @@
 url: $LWD
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2025-08-23T23:15:45.354Z
+status: down
+code: 530
+responseTime: 143
+lastUpdated: 2025-08-24T19:56:17.886Z
 startTime: 2025-08-05T23:26:17.776Z
 generator: Upptime <https://github.com/upptime/upptime>
