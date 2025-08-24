@@ -1,7 +1,7 @@
 url: $SSH
-status: up
-code: 200
-responseTime: 608
-lastUpdated: 2025-08-23T23:15:46.964Z
+status: down
+code: 530
+responseTime: 123
+lastUpdated: 2025-08-24T19:56:20.996Z
 startTime: 2025-06-25T14:52:30.515Z
 generator: Upptime <https://github.com/upptime/upptime>
