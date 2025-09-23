@@ -1,7 +1,7 @@
 url: $CLD
-status: up
-code: 302
-responseTime: 522
-lastUpdated: 2025-09-22T23:15:11.112Z
+status: down
+code: 502
+responseTime: 132
+lastUpdated: 2025-09-23T19:24:49.576Z
 startTime: 2025-06-25T13:17:53.861Z
 generator: Upptime <https://github.com/upptime/upptime>
