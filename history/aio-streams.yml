@@ -1,7 +1,7 @@
 url: $AIOS
-status: up
-code: 302
-responseTime: 198
-lastUpdated: 2025-10-10T23:15:00.352Z
+status: down
+code: 500
+responseTime: 0
+lastUpdated: 2025-10-11T13:50:21.495Z
 startTime: 2025-06-25T13:17:52.102Z
 generator: Upptime <https://github.com/upptime/upptime>
