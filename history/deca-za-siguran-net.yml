@@ -1,7 +1,7 @@
 url: $DSN
 status: down
-code: null
-responseTime: 0
-lastUpdated: 2025-11-04T23:16:44.861Z
+code: 500
+responseTime: 5322
+lastUpdated: 2025-11-05T23:17:00.295Z
 startTime: 2025-06-25T13:17:57.273Z
 generator: Upptime <https://github.com/upptime/upptime>
