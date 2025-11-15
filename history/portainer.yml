@@ -1,7 +1,7 @@
 url: $PTN
-status: down
-code: 530
-responseTime: 60
-lastUpdated: 2025-11-15T12:00:17.712Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2025-11-15T12:40:06.702Z
 startTime: 2025-06-25T13:17:58.208Z
 generator: Upptime <https://github.com/upptime/upptime>
