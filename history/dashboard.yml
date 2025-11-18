@@ -1,7 +1,7 @@
 url: $DASH
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2025-11-17T23:16:56.329Z
+status: down
+code: 500
+responseTime: 26
+lastUpdated: 2025-11-18T11:48:04.267Z
 startTime: 2025-06-25T13:17:55.576Z
 generator: Upptime <https://github.com/upptime/upptime>
