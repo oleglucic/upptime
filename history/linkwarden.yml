@@ -1,7 +1,7 @@
 url: $LWD
-status: down
-code: 403
-responseTime: 99
-lastUpdated: 2025-12-09T23:58:31.599Z
+status: up
+code: 301
+responseTime: 6073
+lastUpdated: 2025-12-10T04:30:34.657Z
 startTime: 2025-08-05T23:26:17.776Z
 generator: Upptime <https://github.com/upptime/upptime>
